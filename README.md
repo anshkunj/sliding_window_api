@@ -16,15 +16,36 @@ This project focuses on clean architecture, O(n) optimized solutions, and real-w
 
 ---
 
-## 🌐 Live Web Service (Render)
+## ⚙️ Installation & Run
 
-🔗 **Base URL:**  
+1) Clone the repository  
+git clone https://github.com/anshkunj/sliding-window-api  
+cd sliding-window-api 
+
+2) Install dependencies  
+pip install -r requirements.txt  
+
+3) Run the server  
+uvicorn main:app --reload  
+
+---
+
+## 🌐 API Documentation
+
+Swagger UI:  
+http://127.0.0.1:8000/docs  
+
+ReDoc:  
+http://127.0.0.1:8000/redoc  
+
+---
+
+## 🌐 Live API
+
+Base URL:  
 https://sliding-window-api.onrender.com  
-
-📘 **Interactive API Docs (Swagger):**  
-https://sliding-window-api.onrender.com/docs  
-
-You can test **GET and POST endpoints directly from the browser**.
+Docs:  
+https://sliding-window-api.onrender.com/docs
 
 ---
 
