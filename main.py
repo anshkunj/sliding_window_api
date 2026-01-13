@@ -10,6 +10,13 @@ app = FastAPI(
 )
 
 
+# health check
+@app.get("/health")
+def health_check():
+    return {"status": "OK", "message": "API is running smoothly"}
+
+
+
 # /next_greater
 @app.get("/next_greater")
 def next_greater_get(arr:str) :
