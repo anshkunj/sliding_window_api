@@ -10,7 +10,7 @@ app = FastAPI(
 )
 
 
-# health check
+# /health
 @app.get("/health")
 def health_check():
     return {"status": "OK", "message": "API is running smoothly"}
