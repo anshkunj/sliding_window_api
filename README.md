@@ -43,6 +43,11 @@ array-algorithms-api/
 
 ## 🧠 Algorithms Implemented
 
+### 0️⃣ Health  
+Check status of service whether it is live or not.
+
+---
+
 ### 1️⃣ Next Greater Element
 Find the next greater element to the right of each element.
 
