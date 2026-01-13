@@ -190,3 +190,8 @@ Fiverr: https://www.fiverr.com/s/xX9mNXB
 ## ⭐ Support
 If you found this project helpful, give it a star ⭐  
 It motivates me to build more real-world APIs 🚀
+
+---
+
+## 🔹 Note
+This repository is regularly updated with new scripts and improvements.
