@@ -73,6 +73,11 @@ POST /daily_temperatures
 POST /largest_rectangle  
 POST /max_sliding_window  
 
+GET /next_greater  
+GET /daily_temperatures  
+GET /largest_rectangle  
+GET /max_sliding_window  
+
 ---
 
 ## 🧾 Request Format (JSON)
