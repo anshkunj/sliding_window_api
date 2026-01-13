@@ -157,7 +157,3 @@ MIT License
 ## ⭐ Author
 
 Built with ❤️ by anshkunj
-
-***1***\
-**2**\
-*3*
