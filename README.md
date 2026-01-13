@@ -156,5 +156,4 @@ MIT License
 
 ## ⭐ Author
 
-Built with ❤️ by anshkunj  
-Learning Mode ON 🔥 Execution Mode ACTIVE 🚀
+Built with ❤️ by anshkunj
