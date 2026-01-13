@@ -181,7 +181,7 @@ MIT License
 ---
 
 ## 👤 Author
-anshkunj  
+**anshkunj**  
 GitHub: https://github.com/anshkunj  
 Fiverr: https://www.fiverr.com/s/xX9mNXB  
 
