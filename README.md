@@ -16,6 +16,19 @@ This project focuses on clean architecture, O(n) optimized solutions, and real-w
 
 ---
 
+## 🌐 Live Web Service (Render)
+
+🔗 **Base URL:**  
+https://sliding-window-api.onrender.com  
+
+📘 **Interactive API Docs (Swagger):**  
+https://sliding-window-api.onrender.com/docs  
+
+You can test **GET and POST endpoints directly from the browser**.
+
+---
+
+
 ## 🗂 Project Structure
 
 array-algorithms-api/
