@@ -81,15 +81,15 @@ Output: [4, 6, 6, 8, 9, 10, 12, 56]
 
 ## 🔌 API Endpoints
 
-POST /next_greater  
-POST /daily_temperatures  
-POST /largest_rectangle  
-POST /max_sliding_window  
-
+GET /health  
 GET /next_greater  
+POST /next_greater  
 GET /daily_temperatures  
+POST /daily_temperatures  
 GET /largest_rectangle  
+POST /largest_rectangle  
 GET /max_sliding_window  
+POST /max_sliding_window  
 
 ---
 
@@ -156,5 +156,4 @@ MIT License
 
 ## ⭐ Author
 
-Built with ❤️ by anshkunj  
-ji
+Built with ❤️ by anshkunj
