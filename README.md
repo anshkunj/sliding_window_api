@@ -180,6 +180,13 @@ MIT License
 
 ---
 
-## ⭐ Author
+## 👤 Author
+anshkunj  
+GitHub: https://github.com/anshkunj
+Fiverr: https://www.fiverr.com/s/xX9mNXB  
 
-Built with ❤️ by anshkunj
+---
+
+## ⭐ Support
+If you found this project helpful, give it a star ⭐  
+It motivates me to build more real-world APIs 🚀
