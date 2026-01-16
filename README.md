@@ -48,14 +48,14 @@ https://sliding-window-api.onrender.com/docs
 ---
 
 
-## 🗂 Project Structure
+## 🗂 repo Structure
 
-array-algorithms-api/
+array-algorithms-api/  
 ├── main.py          # FastAPI app & routes
-├── logic.py         # Core algorithm implementations
-├── models.py        # Pydantic request models
-├── requirements.txt
-├── README.md
+├── logic.py         # Core algorithm implementations  
+├── models.py        # Pydantic request models  
+├── requirements.txt  
+├── README.md  
 └── LICENSE
 
 ---
