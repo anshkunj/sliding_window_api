@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github.com/anshkunj/sliding_window_api/blob/ca7ca07b1302781adca1baa558a385ce55cca86e/1768556862714.jpg" alt="Sliding Window API" width="1200">
+</p>
+
+<h1 align="center">Sliding Window API</h1>
+<p align="center">
+Efficient window-based processing for APIs 🚀
+</p>
+
 # 🚀 Array Algorithms API (FastAPI)
 
 A production-ready FastAPI-based REST API implementing high-performance array and stack/deque algorithms such as Sliding Window, Monotonic Stack, and Histogram problems.
