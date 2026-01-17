@@ -1,4 +1,3 @@
-
 # main.py
 from fastapi import FastAPI, HTTPException
 from models import Array_input, array_input
