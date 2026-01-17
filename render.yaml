@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: subarray-api
+    name: sliding-window-api
     env: python
     region: singapore
     plan: free
