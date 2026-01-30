@@ -7,7 +7,7 @@
 Efficient window-based processing for APIs 🚀
 </p>
 
-# 🚀 Array Algorithms API (FastAPI)
+# 🚀 Sliding Window API (FastAPI)
 
 A production-ready FastAPI-based REST API implementing high-performance array and stack/deque algorithms such as Sliding Window, Monotonic Stack, and Histogram problems.
 
