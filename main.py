@@ -19,8 +19,8 @@ app.add_middleware(
 )
 
 
-# Health Check
-@app.get("/health")
+# Home
+@app.get("/")
 def health_check():
     return {"status": "OK", "message": "API is running smoothly"}
 
