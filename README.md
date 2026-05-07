@@ -73,7 +73,7 @@ sliding-window-api/
 
 ## 🧠 Algorithms Implemented
 
-### 0️⃣ Health  
+### 0️⃣ Home  
 Check status of service whether it is live or not.
 
 ---
